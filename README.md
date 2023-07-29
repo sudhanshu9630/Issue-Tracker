@@ -1,4 +1,4 @@
-# Issue Tracker [Hosted link!](http://localhost:7100/issueTracker)
+# Issue Tracker 
 
 ---
 
